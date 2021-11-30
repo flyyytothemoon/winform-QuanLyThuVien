@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{15366A4E-0D6D-42D1-9E73-A5037004D9D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QLTV_final</RootNamespace>
+    <AssemblyName>QLTV_final</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookTitle.Designer.cs">
+      <DependentUpon>BookTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmDOCGIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmDOCGIA.Designer.cs">
+      <DependentUpon>fmDOCGIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmMUONTRASACH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmMUONTRASACH.Designer.cs">
+      <DependentUpon>fmMUONTRASACH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmNHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmNHANVIEN.Designer.cs">
+      <DependentUpon>fmNHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmNHAXUATBAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmNHAXUATBAN.Designer.cs">
+      <DependentUpon>fmNHAXUATBAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmSACH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmSACH.Designer.cs">
+      <DependentUpon>fmSACH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmLOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmLOGIN.Designer.cs">
+      <DependentUpon>fmLOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmTACGIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmTACGIA.Designer.cs">
+      <DependentUpon>fmTACGIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeAdmin.Designer.cs">
+      <DependentUpon>HomeAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeUser.Designer.cs">
+      <DependentUpon>HomeUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ketnoi.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLTVTESTDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLTVTESTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLTVTESTDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLTVTESTDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLTVTESTDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLTVTESTDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Review.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Review.Designer.cs">
+      <DependentUpon>Review.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateReader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateReader.Designer.cs">
+      <DependentUpon>UpdateReader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewAdmin.Designer.cs">
+      <DependentUpon>ViewAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewUser.Designer.cs">
+      <DependentUpon>ViewUser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BookTitle.resx">
+      <DependentUpon>BookTitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmDOCGIA.resx">
+      <DependentUpon>fmDOCGIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmMUONTRASACH.resx">
+      <DependentUpon>fmMUONTRASACH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmNHANVIEN.resx">
+      <DependentUpon>fmNHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmNHAXUATBAN.resx">
+      <DependentUpon>fmNHAXUATBAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmSACH.resx">
+      <DependentUpon>fmSACH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmLOGIN.resx">
+      <DependentUpon>fmLOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmTACGIA.resx">
+      <DependentUpon>fmTACGIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeAdmin.resx">
+      <DependentUpon>HomeAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeUser.resx">
+      <DependentUpon>HomeUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Review.resx">
+      <DependentUpon>Review.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateReader.resx">
+      <DependentUpon>UpdateReader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewAdmin.resx">
+      <DependentUpon>ViewAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewUser.resx">
+      <DependentUpon>ViewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QLTVTESTDataSet.xsc">
+      <DependentUpon>QLTVTESTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLTVTESTDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLTVTESTDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLTVTESTDataSet.xss">
+      <DependentUpon>QLTVTESTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLTVTESTDataSet1.xsc">
+      <DependentUpon>QLTVTESTDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLTVTESTDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLTVTESTDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLTVTESTDataSet1.xss">
+      <DependentUpon>QLTVTESTDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLTVTESTDataSet2.xsc">
+      <DependentUpon>QLTVTESTDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QLTVTESTDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLTVTESTDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLTVTESTDataSet2.xss">
+      <DependentUpon>QLTVTESTDataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

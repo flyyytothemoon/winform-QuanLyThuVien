@@ -1,0 +1,63 @@
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\bin\Debug\QLTV_final.exe.config
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\bin\Debug\QLTV_final.exe
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\bin\Debug\QLTV_final.pdb
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csprojAssemblyReference.cache
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fm_LOGIN.resources
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmTACGIA.resources
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.Properties.Resources.resources
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.GenerateResource.cache
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.exe
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.pdb
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmSACH.resources
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmNHANVIEN.resources
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmNHAXUATBAN.resources
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmMUONTRASACH.resources
+C:\Users\phamt\OneDrive\Máy tính\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmDOCGIA.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\bin\Debug\QLTV_final.exe.config
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\bin\Debug\QLTV_final.exe
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\bin\Debug\QLTV_final.pdb
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csprojAssemblyReference.cache
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmDOCGIA.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmMUONTRASACH.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmNHANVIEN.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmNHAXUATBAN.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmSACH.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fm_LOGIN.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmTACGIA.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.Properties.Resources.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.GenerateResource.cache
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.CoreCompileInputs.cache
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.exe
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.pdb
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.ViewUser.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.ViewAdmin.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.HomeAdmin.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.HomeUser.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.Review.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.BookTitle.resources
+D:\NEU\2020-2021-02\LTUD_K60\Version2\QTLV_final\QLTV_final\QLTV_final\obj\Debug\QLTV_final.UpdateReader.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\bin\Debug\QLTV_final.exe.config
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\bin\Debug\QLTV_final.exe
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\bin\Debug\QLTV_final.pdb
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.AssemblyReference.cache
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.BookTitle.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmDOCGIA.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmMUONTRASACH.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmNHANVIEN.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmNHAXUATBAN.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmSACH.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fm_LOGIN.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.fmTACGIA.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.HomeAdmin.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.HomeUser.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.Properties.Resources.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.Review.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.UpdateReader.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.ViewAdmin.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.ViewUser.resources
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.GenerateResource.cache
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.exe
+C:\Users\phamt\Downloads\Compressed\QLTV_final\QLTV_final\obj\Debug\QLTV_final.pdb
